@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(../img/texture-sheet.jpg);
+    background-image: url(../img/bela-vista-da-cidade-de-uma-cidade-urbana-um-tiro-de-cima.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -120,7 +120,7 @@ input, select {
     flex-direction: column;
 }
 
-#filter select {
+#filter-select {
     flex: 1;
 }
 
